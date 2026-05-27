@@ -1,6 +1,24 @@
 {
-  "TarballUrls": [
-    "https://package.openupm.com/com.google.external-dependency-manager/-/com.google.external-dependency-manager-1.2.178.tgz",
-    "https://package.openupm.com/com.yandex.mobileads/-/com.yandex.mobileads-7.16.0.tgz"
+  "RegistryPackages": [
+    {
+      "Name": "com.google.external-dependency-manager",
+      "Version": "1.2.178",
+      "RegistryName": "OpenUPM",
+      "RegistryUrl": "https://package.openupm.com",
+      "Scopes": [
+        "com.google",
+        "com.yandex"
+      ]
+    },
+    {
+      "Name": "com.yandex.mobileads",
+      "Version": "7.16.0",
+      "RegistryName": "OpenUPM",
+      "RegistryUrl": "https://package.openupm.com",
+      "Scopes": [
+        "com.google",
+        "com.yandex"
+      ]
+    }
   ]
 }
