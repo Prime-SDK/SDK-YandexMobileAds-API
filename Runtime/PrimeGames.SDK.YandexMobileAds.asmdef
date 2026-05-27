@@ -1,8 +1,8 @@
 {
-    "name": "MirraGames.SDK.YandexMobileAds",
-    "rootNamespace": "MirraGames.SDK.YandexMobileAds",
+    "name": "PrimeGames.SDK.YandexMobileAds",
+    "rootNamespace": "PrimeGames.SDK.YandexMobileAds",
     "references": [
-        "MirraGames.SDK.Common",
+        "PrimeGames.SDK.Common",
         "YandexMobileAds"
     ],
     "includePlatforms": [

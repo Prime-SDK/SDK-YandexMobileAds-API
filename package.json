@@ -1,7 +1,7 @@
 {
-  "name": "com.mirrasdk.yandexmobileads.api",
+  "name": "com.primesdk.yandexmobileads.api",
   "version": "1.1.0",
-  "displayName": "Yandex Mobile Ads API for MirraSDK5",
+  "displayName": "Yandex Mobile Ads API for PrimeSDK",
   "unity": "2021.3",
   "documentationUrl": "",
   "changelogUrl": "",

@@ -1,7 +1,7 @@
-using MirraGames.SDK.Common;
+using PrimeGames.SDK.Common;
 using UnityEngine;
 
-namespace MirraGames.SDK.YandexMobileAds {
+namespace PrimeGames.SDK.YandexMobileAds {
 
     [ProviderConfiguration(typeof(YandexMobileAds))]
     public class YandexMobileAds_Configuration : PropertyGroup {

@@ -1,13 +1,13 @@
-using MirraGames.SDK.Common;
+using PrimeGames.SDK.Common;
 using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using YandexPlugin = global::YandexMobileAds;
 using YandexPluginBase = global::YandexMobileAds.Base;
-using Logger = MirraGames.SDK.Common.Logger;
+using Logger = PrimeGames.SDK.Common.Logger;
 
-namespace MirraGames.SDK.YandexMobileAds {
+namespace PrimeGames.SDK.YandexMobileAds {
 
     [Provider(typeof(IAds))]
     public class YandexMobileAds : CommonAds {

@@ -25,7 +25,7 @@ Pangle
 UnityAds
 ```
 
-9. Add this API package for MirraSDK5 after you finished with Yandex Mobile Ads, click Install above and wait for compiler to finish its work.
+9. Add this API package for PrimeSDK after you finished with Yandex Mobile Ads, click Install above and wait for compiler to finish its work.
 
 10. In Toolkit, go to Configurations, select your configuration (e.g. Google Play), go to Ads foldout, click `Use custom`, and select Yandex Mobile Ads as provider for Ads.
 
